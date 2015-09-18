@@ -8,7 +8,9 @@ In the languages listed below, take the .csv file in the data/ directory and pro
 - In the language of your choice from the languages listed below, take the provided CSV and create HTTP endpoints that return the following:
  * a user entry, given an ID as a path param, e.g. ```http://<yourapp>/users/user/1```
  * a list of users by age range given ```min_age``` and ```max_age``` query paramaters, e.g. ```http://<yourapp>/users/age?min_age=22&max_age=65```
- * **EXTRA CREDIT** a list of users within 5 mile radius of a given a lat,long coordinate, e.g. ```http://<yourapp>/users/loc?lat=38.900918&long=-77.035857```
+
+##### EXTRA CREDIT
+- a list of users within 5 mile radius of a given a lat,long coordinate, e.g. ```http://<yourapp>/users/loc?lat=38.900918&long=-77.035857```
  
 All results should be returned as JSON
 
@@ -36,7 +38,7 @@ Although, we are flexible on the languages for this test, we have limited the am
 - No submission will be the same, so be perpared to walk us through all the aspects that contribute to your submission's evaluation (see above)
 
 ### Submit the Test
-Fork this repository and perform a pull-request into the main project.
+Fork this repository and email the link to your forked repository at [ENTEREMAIL].
 
 ### Ask Questions
 Review any of the Github issues to see if your question has already been asked and answered.  If it has not been asked, submit a Github issue in this project and someone will answer your question as soon as possible.
