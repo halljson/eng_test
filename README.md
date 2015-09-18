@@ -9,6 +9,8 @@ In the languages listed below, take the .csv file in the data/ directory and pro
  * a user entry, given an ID as a path param, e.g. ```http://<yourapp>/users/user/1```
  * a list of users by age range given ```min_age``` and ```max_age``` query paramaters, e.g. ```http://<yourapp>/users/age?min_age=22&max_age=65```
  * **EXTRA CREDIT** a list of users within 5 mile radius of a given a lat,long coordinate, e.g. ```http://<yourapp>/users/loc?lat=38.900918&long=-77.035857```
+ 
+All results should be returned as JSON
 
 #### Front-end focused Engineer
 - Present data from the CSV in a usable form to a user
