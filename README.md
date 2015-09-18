@@ -5,7 +5,10 @@ This repository is the engineering test for ICX Media engineering candidates.  T
 In the languages listed below, take the .csv file in the data/ directory and productionize a webservice to read in the CSV file and output it in JSON.  Furthermore, once the data is in a JSON format, present the data in a creative way to the end-user.  
 
 #### Back-end focused Engineer
-- In the language of your choice from the languages listed below, take the provided CSV and productionize a service.
+- In the language of your choice from the languages listed below, take the provided CSV and create HTTP endpoints that return the following:
+ * a user entry, given an ID as a path param, e.g. ```http://<yourapp>/users/user/1```
+ * a list of users by age range given ```min_age``` and ```max_age``` query paramaters, e.g. ```http://<yourapp>/users/age?min_age=22&max_age=65```
+ * **EXTRA CREDIT** a list of users within 5 mile radius of a given a lat,long coordinate, e.g. ```http://<yourapp>/users/loc?lat=38.900918&long=-77.035857```
 
 #### Front-end focused Engineer
 - Present data from the CSV in a usable form to a user
