@@ -19,6 +19,7 @@ All results should be returned as JSON
 
 ### Exceed Expectations
 - Create a service and a front-end to present the data.
+- For front-end developers, mapping out locations using a JS map library such as Google Maps or Leaflet.
 
 ### Prerequisites
 Although, we are flexible on the languages for this test, we have limited the amount of languages as to quicken the review process.
@@ -32,7 +33,7 @@ Although, we are flexible on the languages for this test, we have limited the am
 - HTML
 
 #### Notables
-- Use of front-end JavaScript libraries, such as BootstrapJS, strong discouraged
+- Use of front-end JavaScript libraries, such as Bootstrap and jQuery, are strongly discouraged
 - Several factors play into the evaluation of your submission, design, quality, completeness, timeliness
 - All levels of skill and experience are given this test, please take the exercise as far as you can and submit
 - No submission will be the same, so be perpared to walk us through all the aspects that contribute to your submission's evaluation (see above)
@@ -41,7 +42,7 @@ Although, we are flexible on the languages for this test, we have limited the am
 Review any of the Github issues to see if your question has already been asked and answered.  If it has not been asked, submit a Github issue in this project and someone will answer your question as soon as possible.
 
 ### Submission
-Fork this repository and email the link to your forked repository at [ENTEREMAIL].
+Fork this repository and email the link to your forked repository to engineering@icxmedia.com.  Please put your full name in the subject line.
 
 
 
