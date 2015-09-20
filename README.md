@@ -37,11 +37,11 @@ Although, we are flexible on the languages for this test, we have limited the am
 - All levels of skill and experience are given this test, please take the exercise as far as you can and submit
 - No submission will be the same, so be perpared to walk us through all the aspects that contribute to your submission's evaluation (see above)
 
-### Submit the Test
-Fork this repository and email the link to your forked repository at [ENTEREMAIL].
-
-### Ask Questions
+### Questions?
 Review any of the Github issues to see if your question has already been asked and answered.  If it has not been asked, submit a Github issue in this project and someone will answer your question as soon as possible.
+
+### Submission
+Fork this repository and email the link to your forked repository at [ENTEREMAIL].
 
 
 
