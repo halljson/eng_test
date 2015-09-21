@@ -42,7 +42,7 @@ Although, we are flexible on the languages for this test, we have limited the am
 Review any of the Github issues to see if your question has already been asked and answered.  If it has not been asked, submit a Github issue in this project and someone will answer your question as soon as possible.
 
 ### Submission
-Fork this repository and email the link to your forked repository to engineering@icxmedia.com.  Please put your full name in the subject line.
+Fork this repository and email the link to your forked repository to engineering@icxmedia.com.  Please put your full name in the subject line.  In addition, please provide a file in the repository named INSTRUCTIONS_README.md file that provides instructions on how to run your program.
 
 
 
