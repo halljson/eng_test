@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.centered {
+  margin: 0 auto;
+  text-align: left;
+}
+table {
+  width: 95%;
+  margin: 1em;
+  border-collapse: collapse;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+th {
+  height: 50px;
+  padding: .1em 1em .5em 1em;
+}
+td {
+  padding-left: 1em;
+}
+#mapid { 
+  height: 700px; 
+}
