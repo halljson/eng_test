@@ -99,6 +99,8 @@ And two other one-line helpers...
 
                    Things I don't like about my implementation:
 
+I should have broken up the final commit into many, many more git commits.
+
 My views aren't completely disconnected from the backend, rather, they call 
 the same methods that my api does - they get JSON back from these methods and 
 then the template tells the web framework how to render this information for 
